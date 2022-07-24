@@ -1,0 +1,26 @@
+* {
+    background-color: #232B41;
+    margin:0;
+    padding:0;
+    color: white;
+    width:100%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    font-size: 20px;
+}
+
+.nav-tabs {
+    width: 8%;
+    margin-right: auto;
+}
+
+.nav-tab {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 30px;
+}
